@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Team</title>
+</head>
+
+<body>
+
+<h1>Our Team</h1>
+
+<nav>
+<a href="index.html">Home</a> |
+<a href="about.html">About</a> |
+<a href="team.html">Team</a> |
+<a href="services.html">Services</a> |
+<a href="gallery.html">Gallery</a> |
+<a href="blog.html">Blog</a> |
+<a href="contact.html">Contact</a>
+</nav>
+
+<hr>
+
+<h2>Team Members</h2>
+
+<ul>
+<li>
+  <b>Bote, Carl Joseph S. </b> - Homepage Developer
+  <br><img src="bote.jpg" alt="Carl Joseph Bote" width="100">
+  <p>Short bio about Carl Joseph.</p>
+</li>
+<li>
+  <b>Cortez, Jerome R. </b> - About Page Developer
+  <br><img src="cortez.jpg" alt="Jerome Cortez" width="100">
+  <p>Short bio about Jerome.</p>
+</li>
+<li>
+  <b>Florendo, Samuel C. </b> - Team Page Developer
+  <br><img src="florendo.jpg" alt="Samuel Florendo" width="100">
+  <p>Short bio about Samuel.</p>
+</li>
+<li>
+  <b>Manalo, Reihann Karl Adrianne O. </b> - Services Page Developer
+  <br><img src="manalo.jpg" alt="Reihann Manalo" width="100">
+  <p>Short bio about Reihann.</p>
+</li>
+<li>
+  <b>Santiago, Lean R. </b> - Gallery Page Developer
+  <br><img src="santiago.jpg" alt="Lean Santiago" width="100">
+  <p>Short bio about Lean.</p>
+</li>
+<li>
+  <b>Somintac, Diego Derich C. </b> - Blog Page Developer
+  <br><img src="somintac.jpg" alt="Diego Somintac" width="100">
+  <p>Short bio about Diego.</p>
+</li>
+<li>
+  <b>Tacdol, Michael Angelo S. </b> - Contact Page Developer
+  <br><img src="tacdol.jpg" alt="Michael Angelo Tacdol" width="100">
+  <p>Short bio about Michael Angelo.</p>
+</li>
+</ul>
+
+<hr>
+
+</body>
+</html>
